@@ -1,3 +1,6 @@
+Github java api
+https://github.com/JackBekket/egit-github/tree/master/org.eclipse.egit.github.core#github-java-api-orgeclipseegitgithubcore
+
 Eclipse EGit Github Connector
 =============================
 
